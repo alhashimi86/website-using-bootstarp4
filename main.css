@@ -1,0 +1,11 @@
+.upper-bar {
+  background: darkblue;
+  color: #fff;
+  padding: 1rem;
+}
+
+.quote {
+  border: 1px solid red;
+  padding: 0.6rem;
+  margin: 2rem;
+}
